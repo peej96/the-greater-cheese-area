@@ -1,0 +1,16 @@
+h1 {
+    color:goldenrod;
+    font-size: 40px;
+}
+.nav-link {
+    background-color: rgb(73, 31, 31);
+    padding: 12px;
+    border: 2px solid lightsalmon;
+    border-radius: 4px;
+    text-decoration: none;
+    color: black
+}
+
+.nav-link:hover {
+    background-color: #ddd;
+}
